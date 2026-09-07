@@ -55,7 +55,7 @@ Base de datos SQL
 
 El backend asociado se encuentra disponible en:
 
-[Back_Imagenes_SPG](https://github.com/maycogutierrez/Imagenes_SPG_Back.git)
+[Imagenes_SPG_Back](https://github.com/maycogutierrez/Imagenes_SPG_Back.git)
 
 ---
 
@@ -88,7 +88,7 @@ git clone https://github.com/maycogutierrez/Imagenes_SPG_Front.git
 Ingresar al proyecto:
 
 ```bash
-cd Front_Imagenes_Digitales
+cd Imagenes_Digitales_Front
 ```
 
 Instalar dependencias:
